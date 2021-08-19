@@ -1,0 +1,18 @@
+.menu-element {
+  color: white;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: 3% 5% 4% 88%;
+  gap: 30px;
+
+  padding: 25px;
+  list-style-type: none;
+  background-color: #24252a;
+}
+
+.menu-element:hover {
+  color: #0088a9;
+}
+
